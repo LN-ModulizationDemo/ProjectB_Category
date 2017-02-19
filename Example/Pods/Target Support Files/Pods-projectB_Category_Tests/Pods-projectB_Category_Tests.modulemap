@@ -1,0 +1,6 @@
+framework module Pods_projectB_Category_Tests {
+  umbrella header "Pods-projectB_Category_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

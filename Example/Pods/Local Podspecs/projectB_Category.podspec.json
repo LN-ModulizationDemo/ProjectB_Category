@@ -1,0 +1,27 @@
+{
+  "name": "projectB_Category",
+  "version": "0.1.0",
+  "summary": "A short description of projectB_Category.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ning.lennon@gmail.com/projectB_Category",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Lennon": "ning.lennon@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/LN-ModulizationDemo/ProjectB_Category.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "projectB_Category/Classes/**/*",
+  "dependencies": {
+    "CTMediator": [
+
+    ]
+  }
+}

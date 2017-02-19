@@ -1,0 +1,19 @@
+PODS:
+  - CTMediator (0.0.3)
+  - projectB_Category (0.1.0):
+    - CTMediator
+
+DEPENDENCIES:
+  - projectB_Category (from `../`)
+
+EXTERNAL SOURCES:
+  projectB_Category:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CTMediator: c9a1203561e2232cb9a72822659159a02ae3cf20
+  projectB_Category: 39961f4e8a7d8436883e562b27cdafa27b3de34d
+
+PODFILE CHECKSUM: f7d489979b3b985e9806703309df11fd5dfb15c4
+
+COCOAPODS: 1.1.1
